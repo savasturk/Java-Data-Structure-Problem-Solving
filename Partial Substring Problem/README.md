@@ -1,4 +1,4 @@
-Given an input data and a substring to search within the data, return if the substring can be found in the data with atmost one error (1 insertion or 1 deletion), index where the substring starts and the matched substring from input. If multiple matches found, return all of their indexes
+Given an input data and a substring to search within the data, return if the substring can be found in the data with atmost one error (1 insertion or 1 deletion), index where the substring starts and the matched substring from input. If multiple matches found, return all of their indexes.
 
 For example:
 
